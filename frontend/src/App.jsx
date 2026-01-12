@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import axios from 'axios';
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://sugarsense-ai-backend.onrender.com";
 
 function App() {
   const [sugar, setSugar] = useState("");
@@ -41,7 +41,7 @@ function App() {
       setAnalysis(res.data.analysis);
     } catch (error) {
       console.error(error);
-      setAnalysis("❌ Error: Make sure backend is running on http://127.0.0.1:8000");
+      setAnalysis("❌ Error: Make sure backend is running on https://sugarsense-ai-backend.onrender.com/");
     } finally {
       setLoading(false);
     }
