@@ -14,19 +14,11 @@ The platform combines a modern, responsive frontend with a cloud-hosted AI backe
 
 ## ✨ Key Features
 
-- 📊 **Blood Sugar Analysis** – Interprets glucose levels with meaningful feedback  
-- 🤖 **AI Health Assistant** – Chat-based guidance powered by Groq LLMs  
-- 🧠 **Personalized Recommendations** – Lifestyle, diet, and activity insights  
-- 🌐 **Cloud Deployed** – Accessible from anywhere via browser  
-- ⚡ **Responsive UI** – Clean and intuitive user experience  
-
-✨ Features
-
-	•	📊 Blood Sugar Analysis – Interprets glucose levels and provides meaningful insights
-	•	🤖 AI Health Assistant – Chat-based support AI-powered 
-	•	🧠 Personalized Recommendations – Diet, activity, and medication awareness
-	•	🌐 Cloud Deployed – Fully accessible from anywhere
-	•	⚡ Responsive UI – Fast, modern frontend experience
+- 📊 Blood Sugar Analysis – Interprets glucose levels with meaningful feedback  
+- 🤖 AI Health Assistant – Chat-based guidance powered by Groq LLMs  
+- 🧠 Personalized Recommendations – Lifestyle, diet, and activity insights  
+- 🌐 Cloud Deployed – Accessible from anywhere via browser  
+- ⚡ Responsive UI – Clean and intuitive user experience  
 
 ---
 
