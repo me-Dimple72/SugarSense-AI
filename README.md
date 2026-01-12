@@ -20,7 +20,7 @@ The platform combines a modern, responsive frontend with a cloud-hosted AI backe
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 - **Frontend (Vercel):** https://your-frontend-link.vercel.app 
 
