@@ -22,10 +22,7 @@ The platform combines a modern, responsive frontend with a cloud-hosted AI backe
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel):** https://your-frontend-link.vercel.app  
-- **Backend (Render):** https://your-backend-link.onrender.com  
-
-> ⚠️ Note: The backend runs on a free cloud tier. The first request after inactivity may take a few seconds to respond.
+- **Frontend (Vercel):** https://your-frontend-link.vercel.app 
 
 ---
 
@@ -39,21 +36,8 @@ The platform combines a modern, responsive frontend with a cloud-hosted AI backe
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 Author
 
-### Frontend
-- React (Vite)
-- JavaScript
-- CSS / Tailwind CSS
-- Vercel (Deployment)
+**Dimple Goyal**  
+Computer Science Student | Full-Stack Developer  
 
-### Backend
-- FastAPI (Python)
-- Groq Cloud API (LLM inference)
-- Uvicorn
-- Render (Deployment)
-
----
-
-## 🏗️ System Architecture
-	
