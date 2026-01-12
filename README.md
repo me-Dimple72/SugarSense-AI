@@ -8,7 +8,7 @@ The platform combines a modern, responsive frontend with a cloud-hosted AI backe
 
 ##  Live Demo
 
- sugar-sense-ai.vercel.app
+ (https://sugar-sense-ai.vercel.app)
 
 ---
 
