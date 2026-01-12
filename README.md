@@ -7,7 +7,7 @@ SugarSense AI is a full-stack web application designed to help individuals monit
 ✨ Features
 
 	•	📊 Blood Sugar Analysis – Interprets glucose levels and provides meaningful insights
-	•	🤖 AI Health Assistant – Chat-based support powered by Groq LLMs
+	•	🤖 AI Health Assistant – Chat-based support AI-powered 
 	•	🧠 Personalized Recommendations – Diet, activity, and medication awareness
 	•	🌐 Cloud Deployed – Fully accessible from anywhere
 	•	⚡ Responsive UI – Fast, modern frontend experience
