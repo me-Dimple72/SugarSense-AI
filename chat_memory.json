@@ -22,5 +22,13 @@
   {
     "role": "assistant",
     "content": "A healthy diet is crucial for managing diabetes. Focus on whole, unprocessed foods as much as possible. Here are some general guidelines:\n\n**Foods to Emphasize:**\n\n1. **Vegetables**: Dark leafy greens, broccoli, bell peppers, carrots, and other non-starchy vegetables\n2. **Fruits**: Berries, citrus fruits, apples, and other low-sugar fruits\n3. **Protein Sources**: Lean meats (chicken, turkey, fish), legumes (lentils, chickpeas, black beans), and low-fat dairy products\n4. **Whole Grains**: Brown rice, quinoa, whole-wheat bread, and whole-grain pasta\n5. **Healthy Fats**: Nuts, seeds, avocado, and olive oil\n\n**Foods to Limit or Avoid:**\n\n1. **Sugary Drinks**: Soda, sports drinks, and sweet tea or coffee\n2. **Refined Carbohydrates**: White bread, sugary cereals, and processed snacks\n3. **Saturated and Trans Fats**: Red meat, full-fat dairy products, and processed meats\n4. **High-Sodium Foods**: Processed meats, canned goods, and restaurant meals\n5. **High-Fat Snacks**: Chips, crackers, and baked goods\n\n**Specific Foods for Diabetes Management:**\n\n1. **Fiber-Rich Foods**: Legumes, whole grains, and vegetables to help regulate blood sugar and cholesterol levels\n2. **Omega-3 Rich Foods**: Fatty fish, nuts, and seeds to reduce inflammation and improve heart health\n3. **Probiotic-Rich Foods**: Yogurt, kefir, and fermented vegetables to support gut health\n\nRemember to consult your healthcare provider or a registered dietitian for a personalized meal plan. They will help you create a diet that suits your specific needs and health goals."
+  },
+  {
+    "role": "user",
+    "content": "hii"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi! How can I assist you with diabetes management today? Do you have any specific questions about diet, exercise, medications, or blood sugar management?"
   }
 ]
