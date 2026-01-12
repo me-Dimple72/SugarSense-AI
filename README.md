@@ -32,6 +32,4 @@ The platform combines a modern, responsive frontend with a cloud-hosted AI backe
 
 ## 👩‍💻 Author
 
-**Dimple Goyal**  
-Computer Science Student | Full-Stack Developer  
-
+**Dimple**  
