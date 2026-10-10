@@ -17,7 +17,7 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 if not GROQ_API_KEY:
     raise RuntimeError("GROQ_API_KEY is not set. Create .env with your key.")
 
-MODEL_NAME = os.getenv("MODEL_NAME", "llama-3.1-8b-instant")
+MODEL_NAME = os.getenv("MODEL_NAME", "openai/gpt-oss-20b")
 
 MEMORY_FILE = "chat_memory.json"
 MAX_MEMORY_TURNS = int(os.getenv("MAX_MEMORY_TURNS", "10"))
@@ -100,7 +100,7 @@ def groq_chat(messages: List[Dict[str, str]]) -> str:
             model=MODEL_NAME,
             messages=messages,
             temperature=0.7,
-            max_tokens=800,
+            max_tokens=2000,
             top_p=1,
             stream=False
         )
@@ -109,7 +109,7 @@ def groq_chat(messages: List[Dict[str, str]]) -> str:
         error_msg = str(e)
         # Check for common errors
         if "model" in error_msg.lower() or "decommission" in error_msg.lower():
-            return f"❌ Model Error: The model '{MODEL_NAME}' is not available. Please update MODEL_NAME in .env to 'llama-3.1-8b-instant'"
+            return f"❌ Model Error: The model '{MODEL_NAME}' is not available. Please update MODEL_NAME in your environment settings."    
         elif "api" in error_msg.lower() or "key" in error_msg.lower():
             return "❌ API Key Error: Please check your GROQ_API_KEY in the .env file."
         elif "rate" in error_msg.lower() or "limit" in error_msg.lower():
